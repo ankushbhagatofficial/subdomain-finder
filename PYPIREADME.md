@@ -1,4 +1,3 @@
-
 <h1 align="center">subdomainfinder</h1>
 
 <p align="center">
@@ -18,17 +17,9 @@ Activate Account to get the API Key
 
 ```python3```
 
->**SETUP PROGRAM USING PIP**
+>**SETUP PROGRAM**
 
 ```pip3 install subdomainfinder```
-
->**SETUP PROGRAM MANUALLY**
-
-```
-git clone https://github.com/ankushbhagatofficial/subdomain-finder
-cd subdomain-finder
-python3 setup.py install
-```
 
 **Setup API KEY:**
 
