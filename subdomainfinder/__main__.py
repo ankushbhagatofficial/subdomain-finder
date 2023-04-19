@@ -1,4 +1,4 @@
-import subfinder, sys
+import subdomainfinder, sys
 
 def main():
     pass
